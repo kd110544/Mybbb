@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q1  為什麼幼犬要打這麼多次預防針？"
+        android:background="#B8AA95"/>
+
+    <Button
+        android:id="@+id/btn_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q2 一定要幫狗狗結紮嗎？"
+        android:background="#E6D1B1"/>
+
+    <Button
+        android:id="@+id/btn_button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q3  五合一、七合一、八合一疫苗有什麼差別？"
+        android:background="#FFE4B8"/>
+
+    <Button
+        android:id="@+id/btn_button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q4 幼犬可以吃泡軟的成犬飼料嗎？"
+        android:background="#FFCFAD"/>
+
+    <Button
+        android:id="@+id/btn_button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q5 多久要餵幼犬吃一次飯？"
+        android:background="#B8AA95"/>
+    <Button
+        android:id="@+id/btn_button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q6 養毛小孩會引發孩子過敏？"
+        android:background="#E6D1B1"/>
+    <Button
+        android:id="@+id/btn_button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q7 小孩的日常清潔？"
+        android:background="#FFE4B8"/>
+
+    <Button
+        android:id="@+id/btn_button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q8 一定要幫狗狗結紮嗎？"
+        android:background="#FFCFAD"/>
+
+    <Button
+        android:id="@+id/btn_button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q9 一定要幫狗狗結紮嗎？"
+        android:background="#B8AA95"/>
+
+    <Button
+        android:id="@+id/btn_button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q10 一定要幫狗狗結紮嗎？"
+        android:background="#FFE4B8"
+        />
+
+    <Button
+        android:id="@+id/btn_button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q11 一定要幫狗狗結紮嗎？"
+        android:background="#E6D1B1"/>
+
+    <Button
+        android:id="@+id/btn_button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Q2 一定要幫狗狗結紮嗎？"
+        android:background="#FFCFAD"/>
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ButtonActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFE4B8"
+
+        android:orientation="vertical"/>
+
+     <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/name"
+         android:text="A1:離乳前的幼犬通常能從母奶中得到抗體保護，
+但抗體會隨著時間逐漸下降，
+需要靠疫苗來刺激產生抗體。
+預防針的概念
+是將毒性較弱或已無毒性的細菌病毒
+做成疫苗、打進體內，
+讓動物在不發病的狀態下，
+刺激自體的免疫系統產生抗體來預防病毒入侵，
+意思就是「不是靠疫苗對抗病毒，而是靠自身的抗體」。"
+         android:background="#E6D1B1"
+         />
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:background="#B8AA95"
+        android:src="@drawable/ba" />
+
+</LinearLayout>
