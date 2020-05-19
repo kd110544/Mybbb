@@ -11,7 +11,7 @@
         android:id="@+id/btn_textview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Q1  為什麼幼犬要打這麼多次預防針？"
+        android:text="Q1  132145674687為什麼幼犬要打這麼多次預防針？"
         android:background="#B8AA95"/>
 
     <Button
